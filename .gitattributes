@@ -1,0 +1,10 @@
+*.cmp		text
+*.dcm		text
+*.kicad_mod	text ident
+*.kicad_pcb	text ident
+*.lib		text
+*.net		text
+*.pro		text
+*.sch		text ident
+*.sh		eol=lf
+fp-lib-table	text
