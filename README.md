@@ -4,7 +4,7 @@
 This repository contains a template for creating TOFE expansion boards.
 
 For [more information on the TOFE interface, see the HDMI2USB website](http://hdmi2usb.tv/tofe).
-For the [KiCad website](http://kicad-pcb.org/) for more information on using it.
+For the [KiCad website](http://kicad.org/) for more information on using it.
 
 ## Using
 
@@ -44,9 +44,9 @@ For full details on the TOFE mechanical specification, see the
 
 ## KiCad
 
-The design in this repository was made using [KiCad](http://www.kicad-pcb.org/)
+The design in this repository was made using [KiCad](http://www.kicad.org/)
 version **4.0.0-rc1-stable**
-([this version is the current stable release candidate](http://kicad-pcb.org/download/) 
+([this version is the current stable release candidate](http://kicad.org/download/) 
 as of 2015-10-29).
 
 A version for the older KiCad found in Ubuntu Trusty can be found in the
